@@ -1,23 +1,23 @@
 🚀 Sreehari S | ASP.NET Developer 👨‍💻
 
-🔍 Passionate about ASP.NET, MVC, and Full-Stack Web Development.
-🎯 Completed pursuing a BTech in Computer Science at MGM College of Engineering & Technology.
-📌 Based in Ernakulam, Kerala, India.
-💼 Currently working as an ASP.NET Developer at iHits Technologies Pvt. Ltd. — a Kochi-based enterprise software company building scalable HRMS, ERP, payroll, and business solutions used by hundreds of clients across industries. 
+🔍 Passionate about ASP.NET, MVC, and Full-Stack Web Development.<br>
+🎯 Completed pursuing a BTech in Computer Science at MGM College of Engineering & Technology.<br>
+📌 Based in Ernakulam, Kerala, India.<br>
+💼 Currently working as an ASP.NET Developer at iHits Technologies Pvt. Ltd. — a Kochi-based enterprise software company building scalable HRMS, ERP, payroll, and business solutions used by hundreds of clients across industries. <br>
 ihitstech.com
 +1
 
 🛠 Skills & Technologies
-🔒 ASP.NET Full Stack Development (MVC, Web API, Entity Framework)
-🌐 MERN Stack Development
-🖥️ Web Application Security & Best Practices
-🏗️ Building Modern, Scalable Web Applications
-🤝 Teamwork & Leadership
-📜 Experience
+🔒 ASP.NET Full Stack Development (MVC, Web API, Entity Framework)<br>
+🌐 MERN Stack Development<br>
+🖥️ Web Application Security & Best Practices<br>
+🏗️ Building Modern, Scalable Web Applications<br>
+🤝 Teamwork & Leadership<br>
+📜 Experience<br>
 
-💻 ASP.NET Developer – iHits Technologies Pvt. Ltd. (Current)
+💻 ASP.NET Developer – iHits Technologies Pvt. Ltd. (Current)<br>
 Working on enterprise web applications and internal solutions, contributing to product development around HRMS and business systems. 
-ihitstech.com
+ihitstech.com<br>
 
 👨‍🎓 ASP.NET Internship – Luminar Technolab 🔹 (Certified)
 🛠 MERN Stack Internship – Edunet Foundation x EY Global Delivery Services
@@ -32,7 +32,31 @@ ihitstech.com
 
 🌱 Always learning & exploring new tech! 🚀
 # 💫 About Me:
-🚀 Sreehari S | Cybersecurity Enthusiast & Developer 👨‍💻<br>🔍 Passionate about cybersecurity, ethical hacking, and full-stack development.<br>🎯 Completed  pursuing a BTech in Computer Science at MGM College of Engineering & Technology.<br>📌 Based in Ernakulam, Kerala, India.<br><br>🛠 Skills & Technologies<br>🔒 Cybersecurity & Ethical Hacking<br>🌐 MERN Stack Development<br>🖥️ Web Application Security<br>🏗️ Building Modern Web Applications<br>🤝 Teamwork & Leadership<br>📜 Experience<br>👨‍🎓 Cybersecurity Internship - Technook 🔹 (Certified)<br>🛠 MERN Stack Internship - Edunet Foundation x EY Global Delivery Services<br>🎗 Volunteer Secretary - NSS Unit 246<br><br>📫 Let's Connect!<br>📧 Email: sree2003haris@gmail.com<br>🔗 LinkedIn: [http://linkedin.com/in/sree-haris]<br><br>🌱 Always learning & exploring new tech! 🚀<br>
+🚀 Sreehari S | ASP.NET Developer 👨‍💻<br>
+🔍 Passionate about ASP.NET MVC, Web APIs, and full-stack web development.<br>
+💼 Currently working as an ASP.NET Developer at iHits Technologies Pvt. Ltd., contributing to enterprise-level HRMS and business web applications.<br>
+🎯 Completed pursuing a BTech in Computer Science at MGM College of Engineering & Technology.<br>
+📌 Based in Ernakulam, Kerala, India.<br><br>
+
+🛠 Skills & Technologies<br>
+🔒 ASP.NET MVC, Web API, C# & Entity Framework<br>
+🌐 MERN Stack Development<br>
+🖥️ Web Application Security & Best Practices<br>
+🏗️ Building Modern, Scalable Web Applications<br>
+🤝 Teamwork & Leadership<br><br>
+
+📜 Experience<br>
+💻 ASP.NET Developer – iHits Technologies Pvt. Ltd. (Current)<br>
+👨‍🎓 ASP.NET Internship – Luminar Technolab 🔹 (Certified)<br>
+🛠 MERN Stack Internship – Edunet Foundation x EY Global Delivery Services<br>
+🎗 Volunteer Secretary – NSS Unit 246<br><br>
+
+📫 Let's Connect!<br>
+📧 Email: sree2003haris@gmail.com<br>
+🔗 LinkedIn: [http://linkedin.com/in/sree-haris]<br><br>
+
+🌱 Always learning & exploring new tech! 🚀<br>
+
 
 
 ## 🌐 Socials:
